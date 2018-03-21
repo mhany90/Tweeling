@@ -1,12 +1,4 @@
 
-"""
-This files contains some frequently
-used methods for data preprocessing 
-and classification that we kept copying.
-You can also set the `n' for n-fold
-cross-validation here (the NSPL constant).
-"""
-
 import sys
 sys.path.append('../tools')
 import random
